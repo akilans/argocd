@@ -8,3 +8,4 @@
 - Access the UI. Login with admin and default pasword will be pod name
 
 ###
+- 
